@@ -1,0 +1,11 @@
+
+
+<<< Recorded commands on Sat Jul 18 2020 10:35:51 GMT+0100 (West Africa Standard Time)
+I.amOnPage('/')
+I.see('CSV Invoice Parser');
+
+<<< Recorded commands on Sat Jul 18 2020 10:51:07 GMT+0100 (West Africa Standard Time)
+I.click("button.btn.btn-primary")
+
+<<< Recorded commands on Sat Jul 18 2020 10:57:52 GMT+0100 (West Africa Standard Time)
+I.see('CSV File has been parsed successfully, see summary below')

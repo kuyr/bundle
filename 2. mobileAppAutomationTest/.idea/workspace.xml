@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a347ea94-c6b0-4bec-9ab8-08ab6f3297ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ethUTMz6Drn91yS61eCgDiwu2O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="parserTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="billableHoursAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parserTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.parserTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a347ea94-c6b0-4bec-9ab8-08ab6f3297ba" name="Default Changelist" comment="" />
+      <created>1595146811718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595146811718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1330" height="217" key="GridCell.Tab.0.bottom" timestamp="1595182786591">
+      <screen x="31" y="23" width="1409" height="877" />
+    </state>
+    <state width="957" height="217" key="GridCell.Tab.0.bottom/30.23.1410.877@30.23.1410.877" timestamp="1595180352243" />
+    <state width="1330" height="217" key="GridCell.Tab.0.bottom/31.23.1409.877@31.23.1409.877" timestamp="1595182786591" />
+    <state width="957" height="217" key="GridCell.Tab.0.bottom/33.23.1407.877@33.23.1407.877" timestamp="1595180680984" />
+    <state width="1330" height="217" key="GridCell.Tab.0.center" timestamp="1595182786591">
+      <screen x="31" y="23" width="1409" height="877" />
+    </state>
+    <state width="957" height="217" key="GridCell.Tab.0.center/30.23.1410.877@30.23.1410.877" timestamp="1595180352242" />
+    <state width="1330" height="217" key="GridCell.Tab.0.center/31.23.1409.877@31.23.1409.877" timestamp="1595182786591" />
+    <state width="957" height="217" key="GridCell.Tab.0.center/33.23.1407.877@33.23.1407.877" timestamp="1595180680984" />
+    <state width="1330" height="217" key="GridCell.Tab.0.left" timestamp="1595182786590">
+      <screen x="31" y="23" width="1409" height="877" />
+    </state>
+    <state width="957" height="217" key="GridCell.Tab.0.left/30.23.1410.877@30.23.1410.877" timestamp="1595180352241" />
+    <state width="1330" height="217" key="GridCell.Tab.0.left/31.23.1409.877@31.23.1409.877" timestamp="1595182786590" />
+    <state width="957" height="217" key="GridCell.Tab.0.left/33.23.1407.877@33.23.1407.877" timestamp="1595180680983" />
+    <state width="1330" height="217" key="GridCell.Tab.0.right" timestamp="1595182786591">
+      <screen x="31" y="23" width="1409" height="877" />
+    </state>
+    <state width="957" height="217" key="GridCell.Tab.0.right/30.23.1410.877@30.23.1410.877" timestamp="1595180352243" />
+    <state width="1330" height="217" key="GridCell.Tab.0.right/31.23.1409.877@31.23.1409.877" timestamp="1595182786591" />
+    <state width="957" height="217" key="GridCell.Tab.0.right/33.23.1407.877@33.23.1407.877" timestamp="1595180680984" />
+    <state x="208" y="80" key="SettingsEditor" timestamp="1595182850077">
+      <screen x="31" y="23" width="1409" height="877" />
+    </state>
+    <state x="208" y="80" key="SettingsEditor/31.23.1409.877@31.23.1409.877" timestamp="1595182850077" />
+  </component>
+</project>
